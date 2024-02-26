@@ -91,7 +91,7 @@ HideCursor;
 ans=0;
 trial=1;
 
-while trial<=50  % changes "maxTrials" to 50
+while trial<=50  % changed "maxTrials" to 50
     
     %TAKE A BREAK EVERY 100 TRIALS
     if trial > 1
